@@ -1,0 +1,12 @@
+### GET
+GET {{host}}
+Accept: application/json
+
+### POST
+POST {{host}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "teste": "testado"
+}

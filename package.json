@@ -1,0 +1,17 @@
+{
+  "name": "express-sample",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "express": "~4.18.2",
+    "helmet": "^6.1.5",
+    "http-errors": "~2.0.0",
+    "morgan": "~1.9.1",
+    "pug": "3.0.2",
+    "rate-limiter-flexible": "^2.4.1"
+  }
+}
